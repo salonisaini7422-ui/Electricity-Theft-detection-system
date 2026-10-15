@@ -1,0 +1,6 @@
+id,time,supply_power,consumer_power,difference,status
+13,2026-10-12 20:34:20,1000.0,903.0,97.0,Normal
+14,2026-10-12 20:34:25,1000.0,729.0,271.0,Possible Theft
+15,2026-10-12 20:34:30,1000.0,717.0,283.0,Possible Theft
+16,2026-10-12 21:58:40,1000.0,700.0,300.0,Possible Theft
+17,2026-10-12 22:08:21,1000.0,700.0,300.0,Possible Theft

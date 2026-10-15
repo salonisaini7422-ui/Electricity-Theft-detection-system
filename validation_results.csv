@@ -1,0 +1,6 @@
+supply_power,consumer_power,difference,status,actual,prediction
+1000.0,903.0,97.0,Normal,0,0
+1000.0,729.0,271.0,Possible Theft,1,1
+1000.0,717.0,283.0,Possible Theft,1,1
+1000.0,700.0,300.0,Possible Theft,1,1
+1000.0,700.0,300.0,Possible Theft,1,1
